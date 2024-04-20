@@ -1,12 +1,6 @@
 ## Hello World 👋 It's Dixon
 I'm a Fullstack developer
 
-<br/>
-
-<br />
-
-<img align="right" alt="GIF" src="./assets/banner.jpg" width="240px" />
-
 <br />
 
 ## What i'm up to
