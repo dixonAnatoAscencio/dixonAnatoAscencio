@@ -6,7 +6,7 @@ I'm a Fullstack developer
 ## What i'm up to
 
 - 🔭 I’m currently working @
-- 🌱 I’m currently working with [React](https://reactjs.org).
+- 🌱 I’m currently working with [React](https://reactjs.org), [Nest](https://nestjs.com/)
 - 👯 Developer
 <br />
 
